@@ -29,7 +29,7 @@ def run(settings):
     # coco_train = MSCOCOSeq(settings.env.coco_dir)
 
     # Validation datasets
-    got10k_val = Lasot(settings.env.lasot_dir, split='val')
+    lasot_val = Lasot(settings.env.lasot_dir, split='val')
 
     # The joint augmentation transform, that is applied to the pairs jointly
     transform_joint = tfm.Transform(tfm.ToGrayscale(probability=0.05))
@@ -72,7 +72,7 @@ def run(settings):
                              shuffle=True, drop_last=True, stack_dim=1)
 
     # The sampler for validation
-    dataset_val = sampler.ATOMSampler([got10k_val], [1], samples_per_epoch=500*settings.batch_size, max_gap=50,
+    dataset_val = sampler.ATOMSampler([lasot_val], [1], samples_per_epoch=500*settings.batch_size, max_gap=50,
                                       processing=data_processing_val)
 
     # The loader for validation
