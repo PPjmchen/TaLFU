@@ -24,12 +24,12 @@ def run(settings):
 
     # Train datasets
     lasot_train = Lasot(settings.env.lasot_dir, split='train')
-    got10k_train = Got10k(settings.env.got10k_dir, split='vottrain')
-    trackingnet_train = TrackingNet(settings.env.trackingnet_dir, set_ids=list(range(4)))
-    coco_train = MSCOCOSeq(settings.env.coco_dir)
+    # got10k_train = Got10k(settings.env.got10k_dir, split='vottrain')
+    # trackingnet_train = TrackingNet(settings.env.trackingnet_dir, set_ids=list(range(4)))
+    # coco_train = MSCOCOSeq(settings.env.coco_dir)
 
     # Validation datasets
-    got10k_val = Got10k(settings.env.got10k_dir, split='votval')
+    got10k_val = Lasot(settings.env.lasot_dir, split='val')
 
     # The joint augmentation transform, that is applied to the pairs jointly
     transform_joint = tfm.Transform(tfm.ToGrayscale(probability=0.05))
@@ -64,7 +64,7 @@ def run(settings):
                                                     joint_transform=transform_joint)
 
     # The sampler for training
-    dataset_train = sampler.ATOMSampler([lasot_train, got10k_train, trackingnet_train, coco_train], [1,1,1,1],
+    dataset_train = sampler.ATOMSampler([lasot_train], [1],
                                 samples_per_epoch=1000*settings.batch_size, max_gap=50, processing=data_processing_train)
 
     # The loader for training

@@ -48,7 +48,7 @@ def main():
     parser.add_argument('--threads', type=int, default=0, help='Number of threads.')
     parser.add_argument('--use_visdom', type=bool, default=True, help='Flag to enable visdom.')
     parser.add_argument('--visdom_server', type=str, default='127.0.0.1', help='Server for visdom.')
-    parser.add_argument('--visdom_port', type=int, default=8097, help='Port for visdom.')
+    parser.add_argument('--visdom_port', type=int, default=2333, help='Port for visdom.')
 
     args = parser.parse_args()
 

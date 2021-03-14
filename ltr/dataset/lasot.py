@@ -56,6 +56,8 @@ class Lasot(BaseVideoDataset):
             ltr_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), '..')
             if split == 'train':
                 file_path = os.path.join(ltr_path, 'data_specs', 'lasot_train_split.txt')
+            elif split == 'val':
+                file_path = os.path.join(ltr_path, 'data_specs', 'lasot_val_split.txt')
             else:
                 raise ValueError('Unknown split name.')
             sequence_list = pandas.read_csv(file_path, header=None, squeeze=True).values.tolist()
@@ -119,7 +121,7 @@ class Lasot(BaseVideoDataset):
         class_name = seq_name.split('-')[0]
         vid_id = seq_name.split('-')[1]
 
-        return os.path.join(self.root, class_name, class_name + '-' + vid_id)
+        return os.path.join(self.root, class_name + '-' + vid_id)
 
     def get_sequence_info(self, seq_id):
         seq_path = self._get_sequence_path(seq_id)
