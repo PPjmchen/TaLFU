@@ -18,6 +18,7 @@ dataset_dict = dict(
     got10k_val=DatasetInfo(module=pt % "got10k", class_name="GOT10KDataset", kwargs=dict(split='val')),
     got10k_ltrval=DatasetInfo(module=pt % "got10k", class_name="GOT10KDataset", kwargs=dict(split='ltrval')),
     lasot=DatasetInfo(module=pt % "lasot", class_name="LaSOTDataset", kwargs=dict()),
+    lasot_lang=DatasetInfo(module=pt % "lasot_lang", class_name="LaSOTDataset", kwargs=dict()),
     dv2017_val=DatasetInfo(module="ltr.dataset.davis", class_name="Davis", kwargs=dict(version='2017', split='val')),
     dv2016_val=DatasetInfo(module="ltr.dataset.davis", class_name="Davis", kwargs=dict(version='2016', split='val')),
     dv2017_test_dev=DatasetInfo(module="ltr.dataset.davis", class_name="Davis",

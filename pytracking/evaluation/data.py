@@ -21,7 +21,7 @@ class BaseDataset:
 class Sequence:
     """Class for the sequence in an evaluation."""
     def __init__(self, name, frames, dataset, ground_truth_rect, ground_truth_seg=None, init_data=None,
-                 object_class=None, target_visible=None, object_ids=None, multiobj_mode=False):
+                 object_class=None, target_visible=None, object_ids=None, multiobj_mode=False, query=None):
         self.name = name
         self.frames = frames
         self.dataset = dataset
@@ -31,6 +31,7 @@ class Sequence:
         self.target_visible = target_visible
         self.object_ids = object_ids
         self.multiobj_mode = multiobj_mode
+        self.query = query
         self.init_data = self._construct_init_data(init_data)
         self._ensure_start_frame()
 
@@ -86,6 +87,9 @@ class Sequence:
 
             if self.ground_truth_seg is not None:
                 init_data[0]['mask'] = self.ground_truth_seg[0]
+            
+            if self.query is not None:
+                init_data[0]['query'] = self.query
 
         return init_data
 

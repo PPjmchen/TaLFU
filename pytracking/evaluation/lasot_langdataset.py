@@ -20,6 +20,8 @@ class LaSOTDataset(BaseDataset):
         self.base_path = self.env_settings.lasot_path
         self.sequence_list = self._get_sequence_list()
         self.clean_list = self.clean_seq_list()
+        self.nlp_path = self.env_settings.nlp_path
+        self.querys = self.get_query()
 
     def clean_seq_list(self):
         clean_lst = []
@@ -52,11 +54,28 @@ class LaSOTDataset(BaseDataset):
         frames_list = ['{}/{:08d}.jpg'.format(frames_path, frame_number) for frame_number in range(1, ground_truth_rect.shape[0] + 1)]
 
         target_class = class_name
+
+        query = self.querys[sequence_name]
+        
         return Sequence(sequence_name, frames_list, 'lasot', ground_truth_rect.reshape(-1, 4),
-                        object_class=target_class, target_visible=target_visible)
+                        object_class=target_class, target_visible=target_visible, query=query)
 
     def __len__(self):
         return len(self.sequence_list)
+
+    def get_query(self):
+        lang_dict = {}
+        query_path = self.nlp_path + '/lasot_query.txt'
+        with open(query_path, 'r') as f:
+            name_and_langs = f.read().splitlines()
+
+        for info in name_and_langs:
+            info = info.split()
+            name = info[0]
+            lang = ' '.join(info[1:])
+            lang_dict[name] = lang
+        
+        return lang_dict
 
     def _get_sequence_list(self):
         sequence_list = ['airplane-1',

@@ -96,6 +96,10 @@ class ATOM(BaseTracker):
             else:
                 self.output_window = dcf.hann2d(self.output_sz.long(), centered=False).to(self.params.device)
 
+        # Init query
+        self.query = info['init_query']
+        import ipdb; ipdb.set_trace()
+
         # Initialize some learning things
         self.init_learning()
 
@@ -224,7 +228,7 @@ class ATOM(BaseTracker):
 
 
     def track(self, image, info: dict = None) -> dict:
-        
+
         self.debug_info = {}
 
         self.frame_num += 1
