@@ -44,6 +44,7 @@ class ATOM(BaseTracker):
 
         # Get position and size
         self.pos = torch.Tensor([state[1] + (state[3] - 1)/2, state[0] + (state[2] - 1)/2])
+        # the area of the origin image
         self.target_sz = torch.Tensor([state[3], state[2]])
 
         # Set search area
@@ -55,7 +56,7 @@ class ATOM(BaseTracker):
             self.target_scale =  math.sqrt(search_area / self.params.min_image_sample_size)
 
         # Check if IoUNet is used
-        self.use_iou_net = self.params.get('use_iou_net', True)
+        self.use_iou_net = self.params.get('use_iou_net', True)  # True
 
         # Target size in base scale
         self.base_target_sz = self.target_sz / self.target_scale
@@ -223,6 +224,7 @@ class ATOM(BaseTracker):
 
 
     def track(self, image, info: dict = None) -> dict:
+        
         self.debug_info = {}
 
         self.frame_num += 1
@@ -235,12 +237,13 @@ class ATOM(BaseTracker):
         # ------- LOCALIZATION ------- #
 
         # Get sample
+        # self.pos: the position coord of the target
         sample_pos = self.pos.round()
         sample_scales = self.target_scale * self.params.scale_factors
         test_x = self.extract_processed_sample(im, self.pos, sample_scales, self.img_sample_sz)
 
         # Compute scores
-        scores_raw = self.apply_filter(test_x)
+        scores_raw = self.apply_filter(test_x) # [1, 1, 18, 18]
         translation_vec, scale_ind, s, flag = self.localize_target(scores_raw)
 
         # Update position and scale
