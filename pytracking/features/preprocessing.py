@@ -2,11 +2,11 @@ import torch
 import torch.nn.functional as F
 import numpy as np
 
-
+# change cv2 image to batched tensor
 def numpy_to_torch(a: np.ndarray):
     return torch.from_numpy(a).float().permute(2, 0, 1).unsqueeze(0)
 
-
+# change batched tensor to cv2 image
 def torch_to_numpy(a: torch.Tensor):
     return a.squeeze(0).permute(1,2,0).numpy()
 
@@ -57,10 +57,10 @@ def sample_patch(im: torch.Tensor, pos: torch.Tensor, sample_sz: torch.Tensor, o
     """Sample an image patch.
 
     args:
-        im: Image
-        pos: center position of crop
-        sample_sz: size to crop
-        output_sz: size to resize to
+        im: Image [1, 3, h, w]
+        pos: center position of crop 剪切的中心点位置
+        sample_sz: size to crop 裁剪后的尺寸
+        output_sz: size to resize to    # 缩放至ouput_sz
         mode: how to treat image borders: 'replicate' (default), 'inside' or 'inside_major'
         max_scale_change: maximum allowed scale change when using 'inside' and 'inside_major' mode
     """
@@ -71,7 +71,7 @@ def sample_patch(im: torch.Tensor, pos: torch.Tensor, sample_sz: torch.Tensor, o
     # copy and convert
     posl = pos.long().clone()
 
-    pad_mode = mode
+    pad_mode = mode  # 边缘填充方式--replicate:重复  
 
     # Get new sample size if forced inside the image
     if mode == 'inside' or mode == 'inside_major':
@@ -132,7 +132,7 @@ def sample_patch(im: torch.Tensor, pos: torch.Tensor, sample_sz: torch.Tensor, o
 
     # Get image coordinates
     patch_coord = df * torch.cat((tl, br)).view(1,4)
-
+    
     if output_sz is None or (im_patch.shape[-2] == output_sz[0] and im_patch.shape[-1] == output_sz[1]):
         return im_patch.clone(), patch_coord
 

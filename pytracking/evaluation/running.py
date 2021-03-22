@@ -142,6 +142,7 @@ def run_dataset(dataset, trackers, debug=False, threads=0, visdom_info=None):
     if mode == 'sequential':
         for seq in dataset:
             for tracker_info in trackers:
+                # create a new tracker for each sequence.
                 run_sequence(seq, tracker_info, debug=debug, visdom_info=visdom_info)
     elif mode == 'parallel':
         param_list = [(seq, tracker_info, debug, visdom_info) for seq, tracker_info in product(dataset, trackers)]

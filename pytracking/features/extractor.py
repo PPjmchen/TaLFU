@@ -1,4 +1,5 @@
 import torch
+import numpy as np
 from pytracking.features.preprocessing import sample_patch
 from pytracking import TensorList
 
@@ -111,6 +112,13 @@ class MultiResolutionExtractor(ExtractorBase):
         im_patches = torch.cat(list(patch_iter))
         patch_coords = torch.cat(list(coord_iter))
 
+        # 可视化切块图像
+        # image = im_patches.squeeze()
+        # image = image.permute(1,2,0)
+        # image = image.numpy()
+        # import cv2
+        # cv2.imwrite('example.jpg', image)
+
         # im_patches = torch.cat([sample_patch(im, pos, s*image_sz, image_sz) for s in scales])
 
         # Compute features
@@ -137,7 +145,16 @@ class MultiResolutionExtractor(ExtractorBase):
         # Apply transforms
         im_patches = torch.cat([T(im_patch) for T in transforms])
 
+        # idx = 0
+        # for image in im_patches:
+        #     image = image.permute(1,2,0)
+        #     image = image.numpy()
+        #     import cv2
+        #     cv2.imwrite('example/example %d.jpg' % idx, image)
+        #     idx += 1
+
         # Compute features
         feature_map = TensorList([f.get_feature(im_patches) for f in self.features]).unroll()
 
         return feature_map 
+
