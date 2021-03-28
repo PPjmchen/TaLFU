@@ -194,6 +194,7 @@ class Tracker:
 
         _store_outputs(out, init_default)
 
+        # 第0帧初始化后，从第1帧开始跟踪
         for frame_num, frame_path in enumerate(seq.frames[1:], start=1):
             while True:
                 if not self.pause_mode:

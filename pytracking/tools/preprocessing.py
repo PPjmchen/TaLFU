@@ -1,3 +1,4 @@
+import cv2
 import torch
 import torch.nn.functional as F
 import numpy as np
@@ -10,70 +11,15 @@ def numpy_to_torch(a: np.ndarray):
 def torch_to_numpy(a: torch.Tensor):
     return a.squeeze(0).permute(1,2,0).numpy()
 
-
-def sample_patch_transformed(im, pos, scale, image_sz, transforms, is_mask=False):
-    """Extract transformed image samples.
-    args:
-        im: Image.
-        pos: Center position for extraction.
-        scale: Image scale to extract features from.
-        image_sz: Size to resize the image samples to before extraction.
-        transforms: A set of image transforms to apply.
-    """
-
-    # Get image patche
-    im_patch, _ = sample_patch(im, pos, scale*image_sz, image_sz, is_mask=is_mask)
-
-    # Apply transforms
-    im_patches = torch.cat([T(im_patch, is_mask=is_mask) for T in transforms])
-
-    return im_patches
-
-
-def sample_patch_multiscale(im, pos, scales, image_sz, mode: str='replicate', max_scale_change=None):
-    """Extract image patches at multiple scales.
-    args:
-        im: Image.
-        pos: Center position for extraction.
-        scales: Image scales to extract image patches from.
-        image_sz: Size to resize the image samples to
-        mode: how to treat image borders: 'replicate' (default), 'inside' or 'inside_major'
-        max_scale_change: maximum allowed scale change when using 'inside' and 'inside_major' mode
-    """
-    if isinstance(scales, (int, float)):
-        scales = [scales]
-
-    # Get image patches
-    patch_iter, coord_iter = zip(*(sample_patch(im, pos, s*image_sz, image_sz, mode=mode,
-                                                max_scale_change=max_scale_change) for s in scales))
-    im_patches = torch.cat(list(patch_iter))
-    patch_coords = torch.cat(list(coord_iter))
-
-    return  im_patches, patch_coords
-
-# im, pos, scale*image_sz, image_sz
 def sample_patch(im: torch.Tensor, pos: torch.Tensor, sample_sz: torch.Tensor, output_sz: torch.Tensor = None,
                  mode: str = 'replicate', max_scale_change=None, is_mask=False):
-    """Sample an image patch.
-
-    args:
-        im: Image [1, 3, h, w]
-        pos: center position of crop 剪切的中心点位置
-        sample_sz: size to crop 裁剪后的尺寸
-        output_sz: size to resize to    # 缩放至ouput_sz
-        mode: how to treat image borders: 'replicate' (default), 'inside' or 'inside_major'
-        max_scale_change: maximum allowed scale change when using 'inside' and 'inside_major' mode
-    """
-
-    # if mode not in ['replicate', 'inside']:
-    #     raise ValueError('Unknown border mode \'{}\'.'.format(mode))
-
-    # copy and convert
+    
+    # get the target's position coord
     posl = pos.long().clone()
 
-    pad_mode = mode  # 边缘填充方式--replicate:重复  
-
-    # Get new sample size if forced inside the image
+    # set padding mode 
+    pad_mode = mode
+    
     if mode == 'inside' or mode == 'inside_major':
         pad_mode = 'replicate'
         im_sz = torch.Tensor([im.shape[2], im.shape[3]])
@@ -97,7 +43,7 @@ def sample_patch(im: torch.Tensor, pos: torch.Tensor, sample_sz: torch.Tensor, o
     # Do downsampling
     if df > 1:
         os = posl % df              # offset
-        posl = (posl - os) // df     # new position
+        posl = (posl - os) // df    # new position
         im2 = im[..., os[0].item()::df, os[1].item()::df]   # downsample
     else:
         im2 = im
@@ -121,9 +67,6 @@ def sample_patch(im: torch.Tensor, pos: torch.Tensor, sample_sz: torch.Tensor, o
         tl += shift
         br += shift
 
-        # Get image patch
-        # im_patch = im2[...,tl[0].item():br[0].item(),tl[1].item():br[1].item()]
-
     # Get image patch
     if not is_mask:
         im_patch = F.pad(im2, (-tl[1].item(), br[1].item() - im2.shape[3], -tl[0].item(), br[0].item() - im2.shape[2]), pad_mode)
@@ -136,10 +79,25 @@ def sample_patch(im: torch.Tensor, pos: torch.Tensor, sample_sz: torch.Tensor, o
     if output_sz is None or (im_patch.shape[-2] == output_sz[0] and im_patch.shape[-1] == output_sz[1]):
         return im_patch.clone(), patch_coord
 
-    # Resample
+    # Resample to ouput size
     if not is_mask:
         im_patch = F.interpolate(im_patch, output_sz.long().tolist(), mode='bilinear')
     else:
         im_patch = F.interpolate(im_patch, output_sz.long().tolist(), mode='nearest')
 
     return im_patch, patch_coord
+
+def main():
+    img = cv2.imread('test_img.jpg')
+    img = numpy_to_torch(img)
+    pos = torch.tensor([108.5000, 387.0000])
+    sample_size = torch.tensor([80, 80])
+    output_size = torch.tensor([500, 500])
+
+    im_patch, _ = sample_patch(img, pos, sample_size, output_size, )
+    im_patch = torch_to_numpy(im_patch)
+    cv2.imwrite('test_img2.jpg', im_patch)
+
+
+if __name__ == '__main__':
+    main()

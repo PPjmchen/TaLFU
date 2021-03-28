@@ -124,7 +124,7 @@ class ATOM(BaseTracker):
         self.min_scale_factor = torch.max(10 / self.base_target_sz)
         self.max_scale_factor = torch.min(self.image_sz / self.base_target_sz)
 
-        # Extract and transform sample
+        # Extract and transform sample  1
         # 根据初始帧生成30个训练样本, 添加随机抖动、变换等，并提取特征
         x = self.generate_init_samples(im)  # [3, 256, 18, 18]
 
@@ -161,14 +161,14 @@ class ATOM(BaseTracker):
         out = {'time': time.time() - tic}
         return out
 
-
+     
     def init_optimization(self, train_x, init_y):
         # Initialize filter
         filter_init_method = self.params.get('filter_init_method', 'zeros')  #  randn
         # self.filter : [1, 64, 4, 4]
         self.filter = TensorList(
             [x.new_zeros(1, cdim, sz[0], sz[1]) for x, cdim, sz in zip(train_x, self.compressed_dim, self.kernel_size)])
-        
+
         # 对self.filter作初始化
         if filter_init_method == 'zeros':
             pass
@@ -249,8 +249,8 @@ class ATOM(BaseTracker):
         # Free memory
         del self.init_training_samples
         if self.params.use_projection_matrix:
-            del self.joint_problem, self.joint_optimizer
-
+            del self.joint_problem
+            del self.joint_optimizer
 
     def track(self, image, info: dict = None) -> dict:
 
@@ -269,7 +269,9 @@ class ATOM(BaseTracker):
         # self.pos: the position coord of the target
         sample_pos = self.pos.round()
         sample_scales = self.target_scale * self.params.scale_factors
-        test_x = self.extract_processed_sample(im, self.pos, sample_scales, self.img_sample_sz)
+    
+        # 在上一阵的目标位置处做切割，提取当前帧的特征
+        test_x = self.extract_processed_sample(im, self.pos, sample_scales, self.img_sample_sz)  # [1, 64, 18, 18]
 
         # Compute scores
         scores_raw = self.apply_filter(test_x) # [1, 1, 18, 18]
@@ -283,7 +285,6 @@ class ATOM(BaseTracker):
         
 
         translation_vec, scale_ind, s, flag = self.localize_target(scores_raw)
-
         # Update position and scale
         if flag != 'not_found':
             if self.use_iou_net:
@@ -747,7 +748,7 @@ class ATOM(BaseTracker):
         # Extract features from the relevant scale
         iou_features = self.get_iou_features()
         iou_features = TensorList([x[scale_ind:scale_ind+1,...] for x in iou_features])
-
+        import ipdb; ipdb.set_trace()
         init_boxes = init_box.view(1,4).clone()
         if self.params.num_init_random_boxes > 0:
             # Get random initial boxes
