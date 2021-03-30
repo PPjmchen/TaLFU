@@ -113,6 +113,7 @@ def run_sequence(seq: Sequence, tracker: Tracker, debug=False, visdom_info=None)
 
     print('FPS: {}'.format(num_frames / exec_time))
 
+    # 只在非debug模式下保存跟踪结果
     if not debug:
         _save_tracker_output(seq, tracker, output)
 

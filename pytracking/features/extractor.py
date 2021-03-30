@@ -141,17 +141,19 @@ class MultiResolutionExtractor(ExtractorBase):
 
         # Get image patche
         im_patch, _ = sample_patch(im, pos, scale*image_sz, image_sz)  # im_patch: [1, 3, 576, 576]
-        import ipdb;ipdb.set_trace()
+        
         # Apply transforms
         im_patches = torch.cat([T(im_patch) for T in transforms])
 
-        idx = 0
-        for image in im_patches:
-            image = image.permute(1,2,0)
-            image = image.numpy()
-            import cv2
-            cv2.imwrite('example/example %d.jpg' % idx, image)
-            idx += 1
+        # idx = 0
+        # for image in im_patches:
+        #     image = image.permute(1,2,0)
+        #     image = image.numpy()
+        #     import cv2
+        #     cv2.imwrite('example/example %d.jpg' % idx, image)
+        #     idx += 1
+        
+        # import ipdb;ipdb.set_trace()
 
         # Compute features
         feature_map = TensorList([f.get_feature(im_patches) for f in self.features]).unroll()

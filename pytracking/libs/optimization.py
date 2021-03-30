@@ -15,6 +15,7 @@ class L2Problem:
 
     def ip_input(self, a, b):
         """Inner product of the input space."""
+        # @ == tensor.matmul
         return sum(a.view(-1) @ b.view(-1))
 
     def ip_output(self, a, b):

@@ -136,11 +136,10 @@ class ATOM(BaseTracker):
         self.init_projection_matrix(x)  # self.projection_matrix[0].shape: [64, 256, 1, 1]
 
         # Transform to get the training sample
-        train_x = self.preprocess_sample(x)  # [30, 256, 18, 18]
-
+        train_x = self.preprocess_sample(x) 
         # Generate the position label function
         init_y = self.init_label_function(train_x)  # [30, 1, 18, 18]
-
+        
         # count = 0
         # for y in init_y[0]:
         #     y = y.unsqueeze(0).cpu()
@@ -169,16 +168,19 @@ class ATOM(BaseTracker):
         self.filter = TensorList(
             [x.new_zeros(1, cdim, sz[0], sz[1]) for x, cdim, sz in zip(train_x, self.compressed_dim, self.kernel_size)])
 
-        # 对self.filter作初始化
+
+        # Initialization of filter
         if filter_init_method == 'zeros':
             pass
         elif filter_init_method == 'randn':
             for f in self.filter:
-                f.normal_(0, 1/f.numel())
+                # tensor.normal_(mean, std)
+                f.normal_(0, 1/f.numel()) # tensor.numel: count the elements num of a tensor
         else:
             raise ValueError('Unknown "filter_init_method"')
 
         # Get parameters
+        # Choose update projection_matrix or not
         self.params.update_projection_matrix = self.params.get('update_projection_matrix', True) and self.params.use_projection_matrix  # True
         optimizer = self.params.get('optimizer', 'GaussNewtonCG')  # GaussNewtonCG
 
@@ -748,7 +750,6 @@ class ATOM(BaseTracker):
         # Extract features from the relevant scale
         iou_features = self.get_iou_features()
         iou_features = TensorList([x[scale_ind:scale_ind+1,...] for x in iou_features])
-        import ipdb; ipdb.set_trace()
         init_boxes = init_box.view(1,4).clone()
         if self.params.num_init_random_boxes > 0:
             # Get random initial boxes
