@@ -12,7 +12,6 @@ from .optim import ConvProblem, FactorizedConvProblem
 from pytracking.features import augmentation
 import ltr.data.bounding_box_utils as bbutils
 from bert_serving.client import BertClient
-from pytracking.tools.generate_coord import generate_coord
 
 
 class ATOM(BaseTracker):
@@ -110,7 +109,7 @@ class ATOM(BaseTracker):
         # Init query
         self.query = info['init_query']
         bc = BertClient()
-        self.query_emb = torch.from_numpy(bc.encode([self.query])).cuda()
+        self.query_emb = bc.encode([self.query])
 
         # Initialize some learning things
         # Set the phi_1 and phi_2 in the atom paper
@@ -127,12 +126,7 @@ class ATOM(BaseTracker):
 
         # Extract and transform sample  1
         # 根据初始帧生成30个训练样本, 添加随机抖动、变换等，并提取特征
-        x = self.generate_init_samples(im)  # [30, 256, 18, 18]
-        self.coord = generate_coord(batch=x[0].shape[0], height = x[0].shape[2], width = x[0].shape[3])
-        self.query_emb = self.query_emb.repeat(x[0].shape[0], x[0].shape[2], x[0].shape[3], 1).permute(0, 3, 1, 2)
-        # coord = TensorList(coord)
-        
-        x = TensorList([torch.cat([x[0], self.coord, self.query_emb], dim=1)])
+        x = self.generate_init_samples(im)  # [3, 256, 18, 18]
 
         # Initialize iounet: get the modulation vector
         if self.use_iou_net:
@@ -140,6 +134,7 @@ class ATOM(BaseTracker):
 
         # Initialize projection matrix
         self.init_projection_matrix(x)  # self.projection_matrix[0].shape: [64, 256, 1, 1]
+
         # Transform to get the training sample
         train_x = self.preprocess_sample(x) 
         # Generate the position label function
@@ -466,9 +461,6 @@ class ATOM(BaseTracker):
 
     def extract_processed_sample(self, im: torch.Tensor, pos: torch.Tensor, scales, sz: torch.Tensor) -> (TensorList, TensorList):
         x = self.extract_sample(im, pos, scales, sz)
-        
-        x = TensorList([torch.cat([x[0], self.coord[0].unsqueeze(0), self.query_emb[0].unsqueeze(0)], dim=1)])
-        
         return self.preprocess_sample(self.project_sample(x))
 
     def preprocess_sample(self, x: TensorList) -> (TensorList, TensorList):

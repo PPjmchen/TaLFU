@@ -1,0 +1,1400 @@
+airplane-1 white airplane landing on ground
+airplane-10 airplane flying in the air
+airplane-11 airplane colored in yellow and red flying in the air
+airplane-12 white airplane flying in the air above the forest
+airplane-13 white airplane flying in the air
+airplane-14 brown airplane flying in the air
+airplane-15 yellow airplane flying in the air
+airplane-16 brown airplane flying in the air
+airplane-17 airplane flying and rotating in the air
+airplane-18 white airplane flying in the air
+airplane-19 yellow airplane flying in the air
+airplane-2 brown airplane flying in the air
+airplane-20 green airplane flying in the air
+airplane-3 airplane colored in white and red flying above the grass
+airplane-4 airplane colored in white and green flying in the air
+airplane-5 big airplane flying in the center among other airplanes
+airplane-6 airplane flying in the air
+airplane-7 airplane flying above the road
+airplane-8 red airplane flying in the air
+airplane-9 airplane colored in blue and white taking off and flying in the air
+basketball-1 red basketball on a middle girl's hand
+basketball-10 white basketball on a man's hand
+basketball-11 basketball colored in red and black being played by the right boy
+basketball-12 orange basketball on a man's hand
+basketball-13 basketball on a middle girl's hand
+basketball-14 basketball played by a boy on the left side
+basketball-15 green basketball being played by a boy in white shirt
+basketball-16 basketball on the left boy's hand
+basketball-17 basketball played by a boy in black
+basketball-18 red basketball being played by a boy in white shirt
+basketball-19 basketball being played by two men
+basketball-2 red basketball on a man's hand
+basketball-20 basketball in front of a man 
+basketball-3 red basketball on a left top boy's hand
+basketball-4 basketball being played by a man in white shirt
+basketball-5 basketball being played by a group of people
+basketball-6 red basketball being played by a man
+basketball-7 gray basketball on a woman's hand
+basketball-8 gray basketball being played by the middle woman
+basketball-9 left red basketball on a woman's hand
+bear-1 black bear standing on the ground
+bear-10 white bear walking on the river bank
+bear-11 white bear playing on the snow ground
+bear-12 white bear walking on the river bank
+bear-13 brown bear climbing down the rock
+bear-14 brown bear in red dress standing on the ground with humans 
+bear-15 bear colored in white and black playing with other bears
+bear-16 brown bear playing with a man on the ground
+bear-17 brown bear hunting on the ground
+bear-18 brown bear walking on the road
+bear-19 white bear on the left playing with other bears on the snow ground
+bear-2 brown bear hunting for food in a river
+bear-20 most left white bear walking around a swimming pool
+bear-3 brown bear fighting with another bear on the grass ground
+bear-4 bear colored in white and black playing on the snow ground
+bear-5 brown bear walking on the ground
+bear-6 bear waking on the ground with other bears
+bear-7 black bear and other animals walking on the ground
+bear-8 white bear walking on the river bank 
+bear-9 white bear playing in the swimming pool
+bicycle-1 red bicycle by a girl on the ground
+bicycle-10 blue bicycle by a boy on the ground
+bicycle-11 girl by a boy on the road
+bicycle-12 bicycle by a woman on the ground
+bicycle-13 black bicycle by a man on the stage
+bicycle-14 black bicycle ride ridden by a boy
+bicycle-15 toy bicycle being played by a hand
+bicycle-16 white right bicycle by a girl on the ground
+bicycle-17 white bicycle ride ridden by a girl
+bicycle-18 black bicycle by a man on the mountain road
+bicycle-19 bicycle by a boy on the ground
+bicycle-2 bicycle by a man on the ground
+bicycle-20 green bicycle by a man behind another bicycle by a man on the road
+bicycle-3 bicycle buy a man on the ground
+bicycle-4 bicycle by a girl on the ground
+bicycle-5 bicycle ridden by man on road
+bicycle-6 the last bicycle by a man on the road
+bicycle-7 bicycle by a man on the road with other bicycles
+bicycle-8 bicycle by a man on the ground
+bicycle-9 bicycle by a man o the street
+bird-1 black bird standing on a handrail
+bird-10 white bird fighting with a black bird
+bird-11 the left bird walking on the grass ground
+bird-12 white bird playing with a black bird on the river
+bird-13 the most right bird in gray and white walking on the grass ground
+bird-14 the biggest white bird walking among gray birds on the grass ground
+bird-15 the most left black bird standing on the ground
+bird-16 the biggest gray bird walking on the road
+bird-17 the left bird colored in yellow and green walking on the top of a birdcage
+bird-18 white bird flying in the air
+bird-19 gray bird flying in the air in front of other birds
+bird-2 white middle bird walking on the among other birds
+bird-20 white bird swimming on the river
+bird-3 big bird flighting with another bird
+bird-4 the left brown bird walking on the ground
+bird-5 right bird walking on the ground
+bird-6 black bird with white head flying in the air
+bird-7 gray bird standing on the grass ground
+bird-8 bird walking on the ground
+bird-9 grey Bird walking above the cage
+boat-1 white boat floating on the seajkfj
+boat-10 white boat moving on the sea
+boat-11 boat driving on water
+boat-12 boat driving on water
+boat-13 white boat moving on the river
+boat-14 white boat floating on the river
+boat-15 red boat moving on the river
+boat-16 green boat moving on the river
+boat-17 boat moving on the river
+boat-18 boat moving on the river
+boat-19 white boat floating on the river
+boat-2 red boat moving on the river
+boat-20 boat moving on the river
+boat-3 red boat moving on the river
+boat-4 white boat moving on the river
+boat-5 boat floating on the river
+boat-6 boat moving on the river
+boat-7 white boat moving on the river
+boat-8 white boat moving on the river
+boat-9 boat moving on the river
+book-1 book colored in orange and white held by a girl
+book-10 book placed on table
+book-11 book placed on the right of the bookshelf behind human
+book-12 blue book being placed on the desk
+book-13 red and white book on the top of another books
+book-14 book held by a man
+book-15 blue book on the desk
+book-16 book held by a girl
+book-17 black book moving on the desk
+book-18 book held by hand of woman
+book-19 book held by the hands
+book-2 black book being placed on the desk
+book-20 book being placed on the bookshelf behind a girl
+book-3 book being placed on other books
+book-4 book held by a girl
+book-5 book being placed on the other book
+book-6 book on the middle of the desk
+book-7 book held by a girl
+book-8 book on the desk
+book-9 black book on the desk
+bottle-1 bottle held by hand
+bottle-10 bottle on a white desk
+bottle-11 blue bottle being placed on the desk
+bottle-12 yellow bottle hanged in the air
+bottle-13 bottle in the water channel
+bottle-14 bule bottle placed on table
+bottle-15 bottle being placed in the middle of the desk
+bottle-16 half bottle of liquid moved by hand of man
+bottle-17 green bottle held by a man
+bottle-18 bottle moving on the ground
+bottle-19 bottle be placed on the desk in the middle of other bottles
+bottle-2 bottle shaken by the hands
+bottle-20 green bottle being placed on the desk
+bottle-3 bottle shaken by a hand
+bottle-4 bottle being placed on the desk
+bottle-5 green being thrown in the air by the man on the right 
+bottle-6 bottle being placed second from right to left on the desk 
+bottle-7 bottle moved by hand
+bottle-8 bottle being placed on the right of the desk
+bottle-9 bottle hanged in a stick hitted by a dog 
+bus-1 bus running on the road
+bus-10 bus running on the right lane of the road
+bus-11 red bus running on the road in the night
+bus-12 red bus running on the street
+bus-13 bus running on the road
+bus-14 bus running on the road
+bus-15 bus running on the road
+bus-16 red bus running on the left lane of the road
+bus-17 bus running on the road
+bus-18 bus running on the road in the night
+bus-19 red bus running on the road in front of other buses
+bus-2 blue bus running on the street
+bus-20 bus colored in white and green running on the street
+bus-3 blue bus running on the mountain road
+bus-4 bus running on road
+bus-5 bus running on the left side of the road in night
+bus-6 white bus running on the road
+bus-7 white bus running on the road
+bus-8 bus colored in white and yellow running on the road
+bus-9 bus running on the road
+car-1 the left car running on the street
+car-10 white car running on the street
+car-11 black car running on the street
+car-12 orange car running on the road
+car-13 white car running on the road
+car-14 red car running on the street
+car-15 red car running on the right side of the road
+car-16 car running on the street in the night
+car-17 black car running on the left lane of the road
+car-18 car running on the road
+car-19 white car running on the beach
+car-2 white car running on the left lane of the street
+car-20 silver car running on the road
+car-3 black car running on the middle of street among other cars
+car-4 white car running on the road
+car-5 silver car running on the road
+car-6 black car running on the left lane of the road
+car-7 white car running on the road
+car-8 car slowly running on the ground
+car-9 car running on the street in the night
+cat-1 brown cat walking on the grass ground
+cat-10 cat playing with a dog on the ground
+cat-11 cat playing with a mouse on the floor
+cat-12 cat climbing down a tree
+cat-13 black cat fighting with a white cat
+cat-14 cat colored in white and black fighting with another cat on the grass ground
+cat-15 white cat standing around a cat colored in white and black on the ground
+cat-16 cat sitting on the grass ground
+cat-17 white cat fighting with another cat on the ground
+cat-18 cat colored in white and black walking around a tire
+cat-19 cat running on the grass ground
+cat-2 black striated cat standing on the ground
+cat-20 cat playing on the ground in front of the mirror
+cat-3 left white cat moving around a toy tiger on the blanket
+cat-4 cat colored in brown and white fighting with a black cat
+cat-5 cat playing with a monkey on the ground
+cat-6 gray cat sitting on the ground
+cat-7 black cat hunting on the grass ground
+cat-8 cat walking on the street
+cat-9 cat running on the grass
+cattle-1 black cattle running on the grass ground
+cattle-10 brown cattle fighting with another cattle in the river
+cattle-11 cattle walking on the grass ground
+cattle-12 black cattle running on the grass ground
+cattle-13 brown cattle walking among other cattle on the farm land
+cattle-14 left cattle fighting with another cattle on the ground
+cattle-15 left black cattle running on the grass ground with another cattle
+cattle-16 black cattle standing on the right side of the ground
+cattle-17 black cattle running around the river bank
+cattle-18 brown cattle with white color running on the grass ground
+cattle-19 cattle walking on the grass ground
+cattle-2 The second cattle from left to right standing on the grass ground
+cattle-20 cattle walking in the river
+cattle-3 the left cattle fighting with another cattle on the grass ground
+cattle-4 black cattle chasing after a lion on the grass ground
+cattle-5 brown cattle walking on the ground in front of a black cattle 
+cattle-6 black cattle walking on the ground
+cattle-7 brown cattle standing in the middle of the herd 
+cattle-8 cattle colored in white and black running on the grass ground
+cattle-9 brown cattle playing with a dog on the ground
+chameleon-1 chameleon sitting on the wall
+chameleon-10 chameleon floating over the river
+chameleon-11 chameleon walking on the ground in front of a mirror
+chameleon-12 chameleon standing on a hand in front of a mirror
+chameleon-13 chameleon sitting on the ground
+chameleon-14 right chameleon fighting with another chameleon on the grass ground
+chameleon-15 chameleon standing on a stick
+chameleon-16 chameleon walking on the hand
+chameleon-17 green chameleon standing on the tree branch
+chameleon-18 chameleon walking on the sand
+chameleon-19 chameleon moved by hand from tree
+chameleon-2 chameleon walking on the blanket
+chameleon-20 gray chameleon walking on the tree branch
+chameleon-3 chameleon climbing over the shoes
+chameleon-4 chameleon walking on the desk
+chameleon-5 chameleon walking on the desk
+chameleon-6 green chameleon standing on the tree branch
+chameleon-7 chameleon walking on the ground
+chameleon-8 chameleon standing on the tree branch
+chameleon-9 brown chameleon fighting with another green chameleon on the tree branch2
+coin-1 coin turned by hand
+coin-10 coin in the middle moved by hand on paper
+coin-11 gray coin being placed on a plane
+coin-12 silver in the middle coin on the desk among several coins
+coin-13 silver in the middle coin on the desk among several coins
+coin-14 coin being rotated by the hands
+coin-15 coin in the middle being placed on the desk with two coins
+coin-16 right coin turned by hand
+coin-17 silver coin on the right being placed on the desk with another coin
+coin-18 coin in thr lower middle being placed on the desk among several coins
+coin-19 coin being placed on a plane
+coin-2 coin being placed on a plane
+coin-20 coin on the left being placed on the desk
+coin-3 silver coin located at the upper right vertex of a triangle made of coins being placed on the desk
+coin-4 coin at right top being placed on the desk
+coin-5 coin on the far right moving on the desk
+coin-6 coin in the middle being held by a hand
+coin-7 coin being placed on the desk
+coin-8 coin on the top being held by a hand
+coin-9 the second coin from left to right being placed on the desk among several coins
+crab-1 crab sitting on the water bottom
+crab-10 crab moving on the ground
+crab-11 crab creeping on sand
+crab-12 crab sitting on the water bottom
+crab-13 crab moving on the water bottom
+crab-14 crab moving fast on the grass ground
+crab-15 crab moving under the water
+crab-16 crab moving on the ground
+crab-17 crab moving on the ground
+crab-18 crab eating little fish in water
+crab-19 crab moving under the water
+crab-2 crab moving on the beach
+crab-20 crab moving on the ground
+crab-3 crab fighting with cats on the ground
+crab-4 crab moving on the beach
+crab-5 crab moving under the water
+crab-6 crab bellow fighting with other crabs
+crab-7 crab moving on the ground
+crab-8 crab fighting with a lobster
+crab-9 crab moving on the ground
+crocodile-1 crocodile crawling on the water bottom
+crocodile-10 crocodile swimming in the water
+crocodile-11 crocodile crawling on the ground
+crocodile-12 crocodile walking on the ground
+crocodile-13 black crocodile sitting on the grass ground
+crocodile-14 crocodile walking on the grass ground
+crocodile-15 crocodile sitting on the ground
+crocodile-16 crocodile fighting with a group of lions in the river
+crocodile-17 white crocodile sitting on the ground
+crocodile-18 black crocodile climbing on the wall
+crocodile-19 black crocodile crawling on the grass ground
+crocodile-2 white crocodile swimming in the water
+crocodile-20 crocodile crawling on the grass ground
+crocodile-3 crocodile swimming in the river
+crocodile-4 white crocodile crawling on the rock
+crocodile-5 crocodile sitting on the ground
+crocodile-6 crocodile eating fish on ground
+crocodile-7 crocodile sitting on the ground
+crocodile-8 crocodile sitting on the ground
+crocodile-9 crocodile crawling under the water
+cup-1 left white cup being placed on the desk between a black cup and a white cup
+cup-10 the second transparent cup from left two right standing on the desk
+cup-11 blue cup standing on the desk
+cup-12 transparent cup being held by a hand on the desk
+cup-13 blue cup  being placed on the desk
+cup-14 cup being held by a man's hand
+cup-15 transparent cup being held by a hand
+cup-16 transparent cup being placed on the desk
+cup-17 paper cup being placed on the desk
+cup-18 transparent cup being placed on the desk
+cup-19 middle transparent cup being placed on the desk
+cup-2 right transparent cup being placed on the desk
+cup-20 middle paper cup being placed on the desk
+cup-3 red cup being placed on the desk
+cup-4 middle transparent cup being placed on the desk
+cup-5 middle red cup being placed on the desk
+cup-6 black cup being placed on the desk
+cup-7 left cup on the desk changing from black to white
+cup-8 white cup being placed on the desk
+cup-9 transparent cup being placed on the desk
+deer-1 deer walking on the ground around a person
+deer-10 brown deer walking in the forest
+deer-11 left deer walking on the ground among other deer
+deer-12 deer walking on the ground
+deer-13 brown deer walking on the grass ground
+deer-14 deer hunting on in the forest
+deer-15 deer walking on the grass ground
+deer-16 deer walking on the grass ground
+deer-17 gray deer eating on the grass ground
+deer-18 deer running on the grass ground
+deer-19 deer walking on the grass ground
+deer-2 deer sitting on the road
+deer-20 brown deer walking on the ground
+deer-3 left deer fighting with another deer on the grass ground
+deer-4 deer walking on the grass ground
+deer-5 left deer fighting with another beer on the ground
+deer-6 deer standing on the ground and then walking
+deer-7 deer running on the grass ground
+deer-8 bellow deer walking on the grass ground
+deer-9 deer eating in the grass
+dog-1 dog chasing after a toy racing car
+dog-10 left dog fighting with a monkey on the desk
+dog-11 brown dog running on the road
+dog-12 middle brown dog running on the mountain with other dogs
+dog-13 right dog walking on the ground with another brown dog
+dog-14 white dog running on the ground
+dog-15 dog colored in white and black playing in front of a mirror
+dog-16 dog colored in white and brown playing with a cat
+dog-17 dog running around a pig on the beach
+dog-18 white dog playing on the sofa
+dog-19 front large dog leading a group of dogs swimming in the river
+dog-2 yellow dog running in a circle
+dog-20 black dog playing around a swimming pool
+dog-3 dog being chased by a elephant on the grass ground
+dog-4 dog fighting with lions on the grass ground
+dog-5 gray dog running on the grass ground
+dog-6 white dog standing on the roller
+dog-7 black dog chasing after a toy racing car
+dog-8 black dog running on the grass ground
+dog-9 right dog chasing for a toy racing car on the ground
+drone-1 drone flying in the air
+drone-10 drone flying in the air
+drone-11 orange drone flying in the air
+drone-12 drone flying in the air
+drone-13 drone flying in the air
+drone-14 drone flying in the air
+drone-15 black drone flying in the air
+drone-16 drone flying in the air
+drone-17 drone flying in the air
+drone-18 drone flying in the air
+drone-19 drone flying in the air
+drone-2 drone flying in the air in the night
+drone-20 drone flying over the road
+drone-3 drone flying in the air
+drone-4 drone flying in the air
+drone-5 drone flying in the air
+drone-6 drone flying in the air
+drone-7 drone flying in the air
+drone-8 drone flying in the air
+drone-9 drone flying in the air
+electricfan-1 electric fan being placed on the desk
+electricfan-10 left electric fan swinging on the ground
+electricfan-11 electric fan being hanged in the air
+electricfan-12 middle white electric fan being placed on the desk
+electricfan-13 bottom left electric fan  standing on ground
+electricfan-14 white electric fan shaking on the ground
+electricfan-15 electric fan mounted on wall
+electricfan-16 left small electric fan being placed on the red chair
+electricfan-17 middle small electric fan being placed on the desk
+electricfan-18 right electric fan swing on the ground
+electricfan-19 electric fan swinging on the ground
+electricfan-2 middle electric fan swinging on the ground
+electricfan-20 electric fan played by a girl
+electricfan-3 electric fan being hanged in the air
+electricfan-4 electric fan being placed on the ground
+electricfan-5 right electric fan being hanged in the air
+electricfan-6 electric fan placed on table
+electricfan-7 right electric fan swinging on the ground
+electricfan-8 right electric fan near a child swinging on the ground
+electricfan-9 left black electric fan being placed on the desk
+elephant-1 left elephant walking on the ground with other elephants
+elephant-10 elephant running on the ground
+elephant-11 elephant fighting with another elephant on the ground
+elephant-12 right elephant walking on the ground among other elephants
+elephant-13 left elephant standing on the ground
+elephant-14 elephant walking on the ground
+elephant-15 elephant running on the grass ground
+elephant-16 small elephant walking in the river
+elephant-17 small elephant walking on the ground
+elephant-18 small elephant walking on the road
+elephant-19 small elephant walking on the grass ground
+elephant-2 right little elephant walking on the ground
+elephant-20 left elephant walking on the ground
+elephant-3 right little elephant playing on the ground
+elephant-4 elephant walking in the grass
+elephant-5 small elephant playing on the ground
+elephant-6 right little elephant playing with another one on ground
+elephant-7 left little elephant chasing dog on ground
+elephant-8 right elephant playing on the ground
+elephant-9 left  elephant playing on the grass ground with other elephants
+flag-1 flag tied on a paragliding flying in the sky
+flag-10 red flag moving up in the flag raising ceremony
+flag-11 flag moving up in the flag raising ceremony
+flag-12 blue flag waved by a woman in the ground
+flag-13 flag on the top of the flagpole waving in the sky
+flag-14 flag waving in the air
+flag-15 red flag waved by a man 
+flag-16 red flag waved by a man
+flag-17 left red flag held by a woman in a parade group
+flag-18 flag on the top of the flagpole waving in the sky
+flag-19 second flag from right to left on the top of the flagpole waving in the sky
+flag-2 flag tied on a paragliding flying in the sky
+flag-20 flag tied on a paragliding flying in the sky
+flag-3 middle flag tied on a paragliding flying in the sky
+flag-4 second flag from right to left tied on a paragliding flying in the sky
+flag-5 flag tied on a white drone flying in the sky
+flag-6 flag moving up in the flag raising ceremony
+flag-7 flag tied on an unmanned aerial vehicle flying in the sky
+flag-8 flag on the top of the flagpole waving in the sky
+flag-9 flag on the top of the flagpole waving in the sky
+fox-1  fox running in the snow
+fox-10 left fox playing with its kids  in the grass
+fox-11 fox running in the snow
+fox-12 fox running in the field
+fox-13 fox running in the bush
+fox-14 gray little fox playing with another fox and a dog in the grass
+fox-15 fox playing with a dog in the grass
+fox-16 left fox playing with another fox in the snow
+fox-17 middle gray fox eating food with a lot of other foxes in the field
+fox-18 fox running in the field
+fox-19 right fox playing with another fox in the snow
+fox-2 white fox running in the snow
+fox-20 fox playing with some persons in a room
+fox-3 fox running in the field
+fox-4 fox running in the field
+fox-5 fox foraging in the forest
+fox-6 fox playing with a person in a yard
+fox-7 fox playing with a cat in the field
+fox-8 fox running in the field
+fox-9 fox trying to steal food from a bear in the field
+frog-1 frog caught by a child in the grass
+frog-10 frog climbing in the branch of a tree
+frog-11 frog creeping on ground
+frog-12 frog jumping from a leaf to another one
+frog-13 frog jumping from one leaf to another one
+frog-14 frog climbing on the rim of a box
+frog-15 frog staying on the ground in night
+frog-16 frog swimming in the water
+frog-17 frog swimming in the water
+frog-18 frog creeping on the ground in night
+frog-19 frog climbing on the branch of a tree
+frog-2 left green frog and a gray fog  played by hands
+frog-20 frog swimming in the water and played by  hands
+frog-3 frog creeping on the ground
+frog-4 frog digging into the earth
+frog-5 frog swimming in the water
+frog-6 frog swimming in the water
+frog-7 frog jumping from ground to the water and swimming in the water
+frog-8 frog creeping on the ground and played by two monkeys
+frog-9 frog in the pot played by a hand
+gametarget-1 gametarget of a green turtle kicking the enemies in a place surrounded by fire
+gametarget-10 gametarget of a person fighting the rival
+gametarget-11 gametarget of a person running in the castle
+gametarget-12 the last gametarget of a motorcycle running on the road
+gametarget-13 gametarget of a helicopter flying in sky and shooting the enemies
+gametarget-14 right gametarget of a person in blue cloth fighting the rival
+gametarget-15 right gametarget of a person  kicking the enemies
+gametarget-16 gametarget of a car running on the ground 
+gametarget-17 gametarget of a warcraft flying and shooting the enemies
+gametarget-18 left gametarget of red super mario running on ground
+gametarget-19 middle gametarget of a person kicking the enemies
+gametarget-2 left gametarget of an animal running on the ground
+gametarget-20 gametarget of a warcraft flying and shooting the enemies
+gametarget-3 gametarget of a person shooting the enemies
+gametarget-4 gametarget of a person kicking the enemies
+gametarget-5 gametarget of a person flying and kicking the enemies
+gametarget-6 left gametarget of person fighting another one on platform
+gametarget-7 middle green gametarget of a person kicking the enemies
+gametarget-8 gametarget of a tank running on the ground
+gametarget-9 gametarget of a person kicking the enemies
+gecko-1 gray gecko creeping on the ceiling
+gecko-10 gray gecko running in a running wheel
+gecko-11 gecko staying in a transparent ball
+gecko-12 gecko creeping on wall
+gecko-13 bellow orange gecko climbing in a pot
+gecko-14 yellow gecko creeping on a table
+gecko-15 yellow gecko creeping on the ground
+gecko-16 right orange and a yellow gecko creeping on a sheet
+gecko-17 right gecko played by hand
+gecko-18 brown gecko held by a hand and moved from water to ground
+gecko-19 yellow gecko eating food in a box
+gecko-2 brown gecko held by a hand and placed on the ground
+gecko-20 orange gecko eating insects in a box
+gecko-3 gecko staying on a table
+gecko-4 gecko creeping on the ground and played by a hand
+gecko-5 top gray gecko playing with another gray gecko on the wall
+gecko-6 bellow gecko with other geckos creeping in a box
+gecko-7 gecko creeping in water
+gecko-8 gecko creeping and eating food in a box
+gecko-9 gecko running in a running wheel
+giraffe-1 giraffe chasing an animal in the yard of a zoo 
+giraffe-10 giraffe walking on the ground and watched by a person
+giraffe-11 second giraffe from left to right running on the field
+giraffe-12 giraffe kicked by an animal in the yard of a zoo
+giraffe-13 giraffe kicking a group of lions on the ground
+giraffe-14 giraffe walking on ground
+giraffe-15 giraffe chasing a man carrying a bike in the field
+giraffe-16 giraffe walking in the field
+giraffe-17 right giraffe running in the bush
+giraffe-18 giraffe running in the field
+giraffe-19 little giraffe walking to a group of rhinoceroses on the ground
+giraffe-2 little giraffe walking to a group of rhinoceroses on the ground
+giraffe-20 left giraffe running in the yard of a zoo
+giraffe-3 giraffe running in the yard of a zoo
+giraffe-4 giraffe running in the yard of a zoo
+giraffe-5 giraffe walking in the yard of a zoo
+giraffe-6 giraffe staying in a group of deer in the field
+giraffe-7 giraffe walking with a little giraffe in the yard of a zoo
+giraffe-8 giraffe walking to a tree in the field
+giraffe-9 giraffe walking in a group of cars on the road
+goldfish-1 third gold fish from left to right swimming among fishes in the water
+goldfish-10 white gold fish swimming among other fishes in the water
+goldfish-11 left gold fish swimming with other fishes in a fish tank
+goldfish-12 purple gold fish swimming with other fishes in a fish tank
+goldfish-13 middle gold fish swimming in water with other gold fishes
+goldfish-14 right gold fish swimming with other fishes in a fish tank
+goldfish-15 orange gold fish swimming in the water
+goldfish-16 gold fish swimming in the water
+goldfish-17 right black gold fish swimming among other gold fishes in a fish tank
+goldfish-18 middle orange gold fish swimming with other gold fishes in a fish tank
+goldfish-19 right gold fish swimming with other gold fishes in water
+goldfish-2 white gold fish swimming with other gold fishes in a fish tank
+goldfish-20 gold fish swimming in a fish tank and held by a hand
+goldfish-3 right gold fish swimming in the water
+goldfish-4 white small gold fish swimming among other gold fishes in a fish tank
+goldfish-5 white gold fish swimming among other gold fishes in a fish tank
+goldfish-6 left red gold fish swimming among other gold fishes in the water
+goldfish-7 right gold fish swimming with other gold fishes in a fish tank
+goldfish-8 middle gold fish swimming among other fishes in the water
+goldfish-9 middle orange gold fish swimming with other gold fishes in the water
+gorilla-1 little black gorilla playing with other gorilla in a room
+gorilla-10 black gorilla playing in the yard of a zoo
+gorilla-11 left black gorilla playing with another gorilla in the yard of a zoo
+gorilla-12 little black gorilla playing with two large black gorillas in the yard of a zoo
+gorilla-13 little black gorilla playing with two large black gorillas in the yard of a zoo
+gorilla-14 little black gorilla playing with two large black gorillas in the yard of a zoo
+gorilla-15 right little black gorilla playing with two large black gorillas in the yard of a zoo
+gorilla-16 left little black gorilla playing with another little black gorilla in the yard of a zoo
+gorilla-17 little black gorilla playing with another little black gorilla in the yard of a zoo
+gorilla-18 right black gorilla playing with another black gorilla in the yard of a zoo
+gorilla-19 black gorilla playing with another black gorilla in the yard of a zoo
+gorilla-2 left black gorilla playing with other gorillas in the yard of a zoo
+gorilla-20 little black gorilla playing with another gorilla in the yard of a zoo
+gorilla-3 right black gorilla playing with another gorilla in the yard of a zoo
+gorilla-4 black gorilla playing with other gorillas in the yard of a zoo
+gorilla-5 little black gorilla playing with a large black gorilla in the yard of a zoo
+gorilla-6 black gorilla  walking around a tree
+gorilla-7 little black gorilla  playing with another black gorilla in the yard of a zoo
+gorilla-8 right little black gorilla playing with other gorillas in the yard of a zoo
+gorilla-9 right little black gorilla playing with a large gorilla in the yard of a zoo 
+guitar-1 red guitar played by a man
+guitar-10 guitar being placed on the left ground
+guitar-11 guitar played by a woman
+guitar-12 guitar played by a woman
+guitar-13 guitar played by a man
+guitar-14 guitar played by a woman
+guitar-15 guitar played by a boy on the street
+guitar-16 guitar played by a man
+guitar-17 guitar played by a man
+guitar-18 guitar played by a man
+guitar-19 guitar played by the left boy
+guitar-2 guitar played by a man
+guitar-20 guitar played by a woman
+guitar-3 guitar played by a man
+guitar-4 guitar played by a man
+guitar-5 guitar played by a man
+guitar-6 guitar played by the middle man
+guitar-7 guitar played by the right man
+guitar-8 guitar played by the right man on the street
+guitar-9 guitar played by a man
+hand-1 right hand of a woman waving up and down in front of a mirror
+hand-10 right hand of a man moving randomly
+hand-11 hand of a girl
+hand-12 hand of a man
+hand-13 hand of a man
+hand-14 hand of a man
+hand-15 hand of a woman
+hand-16 hand of a man
+hand-17 hand of a boy
+hand-18 the left hand of a man
+hand-19 hand of a man
+hand-2 left hand moving randomly
+hand-20 hand of a man
+hand-3 right hand of a man waving in the sky
+hand-4 right hand of a woman moving randomly in the sky
+hand-5 right hand of a woman moving randomly in the sky
+hand-6 left hand of a woman waving in the sky
+hand-7 left hand of a man moving in front of the chest
+hand-8 hand of a man
+hand-9 right hand of a woman in green cloth moving up and down in the air
+hat-1 black hat of the left man in gray suit moving randomly
+hat-10 orange hat played by a man in the hands
+hat-11 red hat played by a man holding another red hat
+hat-12 black hat played by a man in a room
+hat-13 orange hat played by a man in a room
+hat-14 purple hat played by a man in a room
+hat-15 black hat played by a boy
+hat-16 hat worn by a man with a blue suit in a square
+hat-17 gray hat worn by a boy on the head
+hat-18 black hat played by a man in a room
+hat-19 white hat worn by a soldier walking in the grass
+hat-2 hat played by a man in the middle of square
+hat-20 hat played by a man on the stage
+hat-3 black hat played by a man in a room
+hat-4 hat played by a man 
+hat-5 purple hat worn by the left soldier walking in a square
+hat-6 purple hat worn by a smallest soldier walking in a square
+hat-7 hat worn by a man with facial hair
+hat-8 gray hat played by a man
+hat-9 black hat played by a man in a room
+helmet-1 helmet played by a man in snow
+helmet-10 helmet worn by a man on a motor
+helmet-11 helmet worn by a man playing ice hockey 
+helmet-12 helmet worn by a little girl playing roller skating
+helmet-13 helmet worn by a boy riding a motor
+helmet-14 helmet on head of boy riding bike
+helmet-15 white helmet on head of girl skating
+helmet-16 pink helmet on head of girl skating
+helmet-17 helmet worn by a woman riding a motor
+helmet-18 helmet worn by a man riding motor
+helmet-19 white helmet worn by the middle child skiing on the snow
+helmet-2 helmet of a boy skiing on the snow
+helmet-20 helmet worn by the right child skating on the ice
+helmet-3 helmet worn by a child skating on the ice
+helmet-4 helmet worn by a child skating on the ice
+helmet-5 helmet worn by a child skating on the ice
+helmet-6 pink helmet worn by a child playing roller skating
+helmet-7 helmet worn by a child playing ski
+helmet-8 helmet worn by a child riding a motor
+helmet-9 helmet worn by a child riding a motor
+hippo-1 hippo swimming in the water
+hippo-10 right hippo playing with another hippo in the sand
+hippo-11 right hippo running in the field
+hippo-12 right hippo diving in the water
+hippo-13 hippo walking in the water
+hippo-14 hippo walking in the water
+hippo-15 hippo stay at the side of a boat in the water
+hippo-16 hippo diving in the water
+hippo-17 hippo swimming in the water
+hippo-18 hippo running in the field
+hippo-19 hippo swimming in the water
+hippo-2 hippo running in the field
+hippo-20 little hippo walking at the side of the water
+hippo-3 little hippo swimming in the water
+hippo-4 hippo eating a watermelon in the water
+hippo-5 little hippo walking among a group of hippos at the side of the water
+hippo-6 little hippo diving in the water with a large hippo
+hippo-7 hippo walking at the side of the water
+hippo-8 front hippo walking with another hippo in the bush
+hippo-9 hippo walking in the water
+horse-1 horse running on the ground
+horse-10 black horse held by a woman walking on the ground
+horse-11 white horse ridden by a woman in the field
+horse-12 brown horse ridden by a person in the field
+horse-13 horse ridden by a woman in the field
+horse-14 horse ridden by a woman in the field
+horse-15 horse held by a person and swimming in the water
+horse-16 black horse running in the field
+horse-17 horse held by a man in the field
+horse-18 horse walking in the field
+horse-19 white horse walking in the field
+horse-2 brown horse ridden by a man in the field
+horse-20 horse playing with kids in the field
+horse-3 white horse walking at the left of another horse in the field
+horse-4 horse playing with kid in the field
+horse-5 horse playing with woman on grass
+horse-6 horse held by a woman in the field
+horse-7 brown horse ridden by a child in the field
+horse-8 brown horse playing a bucket in the field 
+horse-9 white horse walking with a large brown horse in the field
+kangaroo-1 little kangaroo playing with large one on the grass
+kangaroo-10 kangaroo playing with a dog on the grass
+kangaroo-11 kangaroo punching  a man on the grass
+kangaroo-12 little kangaroo playing with a large kangaroo on the grass
+kangaroo-13 kangaroo playing with a dog on the grass
+kangaroo-14 kangaroo running in the field
+kangaroo-15 kangaroo playing with another animal in a room
+kangaroo-16 kangaroo running in the yard
+kangaroo-17 little kangaroo playing with a person on the ground
+kangaroo-18 little kangaroo playing with a large kangaroo on the grass
+kangaroo-19 left kangaroo fighting with another one on the ground
+kangaroo-2 kangaroo fighting with a person in the ring
+kangaroo-20 right kangaroo fighting with another one in the yard of a zoo
+kangaroo-3 kangaroo fighting with a person in the ring
+kangaroo-4 kangaroo running among some persons on the stage
+kangaroo-5 right kangaroo fighting with another one on the grass
+kangaroo-6 kangaroo running on the grass
+kangaroo-7 kangaroo kicking a puppet in the yard
+kangaroo-8 kangaroo running on the grass
+kangaroo-9 kangaroo punching a person on the stage 
+kite-1 middle kite flying among other kites in the sky
+kite-10 white kite played by a man in the basketball court
+kite-11 green kite flying in the sky
+kite-12 green kite flying in the sky
+kite-13 kite flying in the sky
+kite-14 kite flying in the sky
+kite-15 kite flying in the sky
+kite-16 kite flying in the sky
+kite-17 kite flying in the sky
+kite-18 kite flying in the sky
+kite-19 kite flying in the sky
+kite-2 green kite flying in the sky
+kite-20 kite flying on sky
+kite-3 red kite flying in the sky
+kite-4 kite flying on sky
+kite-5 black kite played by a person in a room
+kite-6 kite played by a person in a basketball court
+kite-7 blue kite flying with another green kite in the sky
+kite-8 blue kite flying with other kites in the sky
+kite-9 right kite flying with another kite in the sky
+leopard-1 black leopard walking in the trees
+leopard-10 leopard walking from water to ground 
+leopard-11 leopard swimming in the water
+leopard-12 leopard walking along shore
+leopard-13 leopard walking in cage
+leopard-14 black leopard playing with another spotted leopard on grass
+leopard-15 leopard walking and playing with black leopard on ground
+leopard-16 leopard walking on the beach
+leopard-17 leopard drinking water at shore with another one
+leopard-18 leopard eating food in yard of zoo
+leopard-19 black leopard waking on the ground and climbing to the branch of a tree
+leopard-2 yellow leopard playing with a little white leopard on the ground
+leopard-20 black leopard climbing on the branch of a tree
+leopard-3 black leopard lied on the ground beneath another black leopard
+leopard-4 leopard swimming from water to ground and walking on the ground
+leopard-5 leopard walking on the tree branch
+leopard-6 leopard swimming in the water
+leopard-7 black leopard climbing on the branch of a tree
+leopard-8 black leopard playing with another spotted leopard in the water
+leopard-9 leopard swimming in the water 
+licenseplate-1 license plate on the back of a red car
+licenseplate-10 license plate on the back of a gray car
+licenseplate-11 license plate on the back of a gray car
+licenseplate-12 license plate on the back of a car
+licenseplate-13 license plate on the back of a gray car
+licenseplate-14 license plate on the back of a black car
+licenseplate-15 license plate on the back of a black jeep
+licenseplate-16 license plate on back of truck
+licenseplate-17 license plate on the back of a car
+licenseplate-18 license plate on the back of a motorcycle
+licenseplate-19 license plate on back of red car driving on road
+licenseplate-2 license plate on the back of a car
+licenseplate-20 license plate on the back of a white car
+licenseplate-3 license plate on the back of a white van
+licenseplate-4 license plate on the front of a gray van
+licenseplate-5 license plate on the back of a yellow car
+licenseplate-6 license plate of a black car
+licenseplate-7 license plate on the back of a black car
+licenseplate-8 license plate on the back of a white car
+licenseplate-9 license plate on back of car driving on road
+lion-1 gray lion walking in the field
+lion-10 large yellow lion walking in the yard of a zoo
+lion-11 large yellow lion playing with three little lions on the grass
+lion-12 yellow lion playing a ball on the ground
+lion-13 left yellow lion swimming with other lions in the water
+lion-14 little lion walking in the grass
+lion-15 large lion standing on the ground
+lion-16 yellow lion walking in the field
+lion-17 left yellow lion  walking in the cage
+lion-18 left bottom lion walking in the yard of a zoo
+lion-19 large yellow lion playing with another lion in the cage
+lion-2 yellow lion climbing on the tree and jumping to the ground
+lion-20 yellow lion playing with persons on the  ground
+lion-3 brown lion walking on the ground and climbing to a pole
+lion-4 large yellow lion swimming with other lions in the water
+lion-5 yellow climbing on the tree and jumping to the ground
+lion-6 gray lion climbing on the tree
+lion-7 lion climbing down the tree
+lion-8 yellow lion walking in the cage
+lion-9 yellow lion attacking a buffalo and running away
+lizard-1 lizard creeping on the ground
+lizard-10 lizard creeping on the ground
+lizard-11 lizard fed by person 
+lizard-12 lizard creeping with other lizards walking on the ground
+lizard-13 lizard eating food on the ground
+lizard-14 lizard walking in a room
+lizard-15 lizard eating food in a room
+lizard-16 lizard creeping on the ground 
+lizard-17 lizard creeping on the ground 
+lizard-18 lizard creeping the ground
+lizard-19 lizard playing with a dog in a room
+lizard-2 lizard eating food in a box
+lizard-20 lizard creeping on the ground
+lizard-3 lizard swimming in the water
+lizard-4 lizard swimming from one side of a pool to another side
+lizard-5 lizard creeping on the ground
+lizard-6 lizard creeping on the ground
+lizard-7 lizard eating food on the ground
+lizard-8 lizard eating food on ground
+lizard-9 lizard moved from a box to the water by a person 
+microphone-1 microphone held by a girl
+microphone-10 microphone held by a lady in silver cloth
+microphone-11 microphone held by a lady in silver cloth
+microphone-12 microphone held by a lady in silver cloth
+microphone-13 microphone held by a lady in red cloth
+microphone-14 microphone held by a girl
+microphone-15 microphone held by a boy
+microphone-16 microphone held by a girl
+microphone-17 microphone held by a girl
+microphone-18 microphone used by a girl
+microphone-19 microphone held by a girl
+microphone-2 microphone held by a girl
+microphone-20 microphone held by a man
+microphone-3 microphone held by a boy
+microphone-4 microphone held by a lady
+microphone-5 microphone held by a girl
+microphone-6 microphone put on the piano
+microphone-7 microphone held by a boy
+microphone-8 black microphone mounted on a pole near a guitar
+microphone-9 microphone being held by a woman
+monkey-1 left monkey among other monkeys
+monkey-10 monkey riding a white goat
+monkey-11 right brown monkey walking on the ground
+monkey-12 little brown monkey held by a large monkey
+monkey-13 brown monkey riding a white goat and held by a person
+monkey-14 black monkey eating food with a person on the sofa
+monkey-15 brown monkey playing with a dog
+monkey-16 brown monkey playing with a dog
+monkey-17 monkey held by a person
+monkey-18 little monkey held by a large monkey
+monkey-19 monkey playing on the tree branch with other monkeys
+monkey-2 large gray monkey eating food on the ground
+monkey-20 brown monkey sitting on a motor
+monkey-3 little gray monkey climbing up and down a stage
+monkey-4 little brown monkey playing with other monkeys on the ground
+monkey-5 little gray monkey eating food on the ground
+monkey-6 little gray monkey held by a large monkey
+monkey-7 monkey hiding at a corner and running on the ground
+monkey-8 black monkey eating food on the table
+monkey-9 gray monkey playing with a cat
+motorcycle-1 motorcycle driving in the square
+motorcycle-10 white motorcycle driving on the road
+motorcycle-11 black motorcycle running on the right side of the road
+motorcycle-12 white motorcycle driving on the road
+motorcycle-13 motorcycle driving on the road
+motorcycle-14 motorcycle driving on the center of the ground
+motorcycle-15 motorcycle ridden by children
+motorcycle-16 motorcycle ridden by a person
+motorcycle-17 black motorcycle ridden by a person
+motorcycle-18 motorcycle ridden by a person
+motorcycle-19 motorcycle driving on the road
+motorcycle-2 white motorcycle ridden by a person
+motorcycle-20 silver motorcycle driving on the road
+motorcycle-3 small motorcycle ridden by a child
+motorcycle-4 left motorcycle driving on the road
+motorcycle-5 motorcycle ridden by a person
+motorcycle-6 little motorcycle ridden by a child
+motorcycle-7 motorcycle driving on the road
+motorcycle-8 motorcycle driving on the road
+motorcycle-9 blue motorcycle running on the road
+mouse-1 mouse running on the top of a stove
+mouse-10 mouse being chased by a cat
+mouse-11 mouse playing with a cat
+mouse-12 mouse playing with a cat
+mouse-13 mouse playing a cat
+mouse-14 mouse played by cat on ground
+mouse-15 mouse running on the floor
+mouse-16 mouse playing with a cat
+mouse-17 mouse playing with a cat
+mouse-18 mouse running on the floor
+mouse-19 mouse running on the floor
+mouse-2 mouse being played by a cat
+mouse-20 gray mouse running on the ground
+mouse-3 mouse played by cat on ground
+mouse-4 mouse running on the floor
+mouse-5 mouse running on the ground and played by cats
+mouse-6 left mouse running in a cage
+mouse-7 mouse played by a hand
+mouse-8 mouse running on the floor
+mouse-9 mouse running on ground
+person-1 man in red walking on the stage
+person-10 man in helmet flying in sky
+person-11 man in red shirt and black pants with guitar walking on the stage
+person-12 girl playing gymnastics
+person-13 man in blue t-shirt walking in front of a remote control car
+person-14 boy in black suit dancing
+person-15 man in black walking on the stage
+person-16 man in white shirt and black pants skating on ice
+person-17 third boy from right dancing on the stage among other boys
+person-18 woman in black standing in the crowd
+person-19 girl in white roller skating on the ground
+person-2 person dancing among other persons on the center of the ground
+person-20 woman in red playing volleyball
+person-3 man in blue shirt and orange short running on the playground with other men
+person-4 man in orange shirt and white short walking on the ground
+person-5 the second boy from left dancing on the stage among other boys
+person-6 man in black playing basketball
+person-7 man in green shirt and black short running on the playground with other men
+person-8 man in black standing on the street in crowd
+person-9 man in black playing basketball on the stage
+pig-1 black pig walking on floor
+pig-10 pig playing with a large dog
+pig-11 white pig showering with a black pig
+pig-12 black pig walking on the dry ground
+pig-13 white pig on the bottom playing with a brown pig
+pig-14 black pig attacking a brown dog
+pig-15 little black pig playing with black cat
+pig-16 black pig swimming in water
+pig-17 black large pig walking with other pigs on ground
+pig-18 brown pig on the left fighting another brown pig
+pig-19 black pig walking on grass
+pig-2 right black pig playing with another black pigs
+pig-20 brown pig walking along trail
+pig-3 brown pig playing with cat and dog on grass
+pig-4 white pig playing with cat
+pig-5 white pig walking around another white pig
+pig-6 white pig playing with a brown dog on carpet
+pig-7 black pig standing on the grass
+pig-8 white pig walking down stairs
+pig-9 right black pig walking with another black pig on grass
+pool-1 white ball rolling on blue table
+pool-10 white ball rolling on green table
+pool-11 white ball being kicked by men
+pool-12 blue ball rolling with other balls
+pool-13 orange ball rolling among other balls
+pool-14 blue ball rolling among other balls
+pool-15 white ball being kicked on green floor
+pool-16 white ball rolling on green table
+pool-17 white ball rolling on blue table
+pool-18 white ball rolling on blue table
+pool-19 white ball rolling on blue table
+pool-2 white ball rolling on green table
+pool-20 white ball rolling on green table
+pool-3 white ball rolling on green table
+pool-4 white ball rolling on green table
+pool-5 white pool on the green table
+pool-6 white pool on the green table
+pool-7 white ball rolling on blue table
+pool-8 white ball rolling on green table
+pool-9 white ball rolling on green table
+rabbit-1 white  rabbit running on grass
+rabbit-10 white rabbit running on sofa
+rabbit-11 white rabbit running on grass
+rabbit-12 brown rabbit playing with a squirrel
+rabbit-13 brown rabbit running on brown bed
+rabbit-14 brown rabbit running from floor to bed 
+rabbit-15 black rabbit playing with football on floor
+rabbit-16 white rabbit playing with football on grass
+rabbit-17 black rabbit playing football on floor
+rabbit-18 brown rabbit running on grass
+rabbit-19 brown rabbit running on ground
+rabbit-2 brown rabbit running on ground
+rabbit-20 white rabbit playing with football on grass
+rabbit-3 brown rabbit feeding little rabbits
+rabbit-4 black rabbit running on snow ground
+rabbit-5 brown rabbit walking in the grass
+rabbit-6 brown rabbit walking on ground
+rabbit-7 gray rabbit sitting on grass
+rabbit-8 white rabbit jumping on the bed
+rabbit-9 black rabbit running on carpet
+racing-1 white racing car moving along track
+racing-10 black racing car moving along track
+racing-11 black racing car moving along track
+racing-12 black racing car moving along track
+racing-13 red racing car moving along track
+racing-14 yellow racing car moving along track
+racing-15 white racing car moving along track
+racing-16 red racing car moving along road
+racing-17 yellow racing car moving along road
+racing-18 white racing car moving along track
+racing-19 black racing car moving along track
+racing-2 black racing car moving along track
+racing-20 white racing car moving along track
+racing-3 red racing car moving along track
+racing-4 blue racing car moving along track
+racing-5 white racing car moving along track
+racing-6 green racing car moving along track
+racing-7 blue racing car moving along track
+racing-8 racing car driving on road
+racing-9 blue racing car moving along track
+robot-1 white robot playing red ball on green table
+robot-10 yellow robot moving on floor
+robot-11 white robot playing orange football on center of green table
+robot-12 robot playing ball with other robots
+robot-13 white robot fighting with a blue robot on white table
+robot-14 white robot moving in red maze
+robot-15 white robot moving in red maze
+robot-16 black robot moving on floor
+robot-17 red robot moving on floor
+robot-18 blue robot fighting with green robot on white table
+robot-19 gray robot fighting with other robots on center of white table
+robot-2 yellow robot moving on floor
+robot-20 black robot moving on the bottom of green floor
+robot-3 yellow robot moving on floor
+robot-4 robot arm moving around
+robot-5 robot arm head moving around
+robot-6 robot playing toy blocks
+robot-7 robot arm head moving around
+robot-8 black robot moving on floor
+robot-9 black robot moving on green table
+rubicCube-1 magic cube rotated by human hand
+rubicCube-10 magic cube rotated by human hand
+rubicCube-11 magic cube rotated by human hand
+rubicCube-12 magic cube played by hands
+rubicCube-13 magic cube rotated by human hand
+rubicCube-14 magic cube rotated by human hand
+rubicCube-15 magic cube placing on the center-right of desktop
+rubicCube-16 magic cube rotated by human hand
+rubicCube-17 magic cube rotated by human hand
+rubicCube-18 magic cube played by hand
+rubicCube-19 magic cube rotated by human hand
+rubicCube-2 magic cube rotated by human hand
+rubicCube-20 magic cube rotated by human hand
+rubicCube-3 magic cube rotated by human hand
+rubicCube-4 magic cube rotated by human hand
+rubicCube-5 magic cube rotated by human hand
+rubicCube-6 magic cube placing on the desktop
+rubicCube-7 magic cube rotated by human hand
+rubicCube-8 magic cube rotated by human hand
+rubicCube-9 magic cube rotated by human hand
+sepia-1 sepia attacking a crab in water tank
+sepia-10 sepia swimming in the water
+sepia-11 sepia swimming in the coral reef
+sepia-12 sepia swimming in water tank
+sepia-13 sepia swimming in the coral reef
+sepia-14 sepia swimming in water
+sepia-15 sepia swimming above sand
+sepia-16 sepia swimming above sand
+sepia-17 left sepia swimming in coral reef
+sepia-18 gray sepia swimming in the river
+sepia-19 sepia swimming in water
+sepia-2 sepia swimming in the water tank
+sepia-20 sepia swimming above sand
+sepia-3 sepia swimming above sand
+sepia-4 sepia swimming in coral reef
+sepia-5 sepia swimming in the coral reef
+sepia-6 sepia swimming above sand
+sepia-7 sepia attacking a crab in water tank
+sepia-8 sepia swimming in the water tank
+sepia-9 sepia swimming in coral reef
+shark-1 top black shark swimming below the surface of the water
+shark-10 shark swimming in water tank
+shark-11 shark swimming in tank
+shark-12 grey shark swimming in water tank
+shark-13 grey shark swimming in the ocean
+shark-14 grey shark swimming in the ocean
+shark-15 black shark swimming below the surface of the water
+shark-16 shard swimming in water
+shark-17 shark swimming in the ocean
+shark-18 large grey shark swimming below the surface of the water
+shark-19 bottom shark swimming with other fish in water tank
+shark-2 right shark swimming with another shark in water tank
+shark-20 shark swimming in the water above sand
+shark-3 grey shark swimming with other fish in the ocean
+shark-4 shark swimming in tank
+shark-5 shark swimming in water tank
+shark-6 shark swimming in water tank
+shark-7 shark swimming in water tank
+shark-8 shark swimming in water above sand
+shark-9 center shark swimming with other fish in water tank
+sheep-1 black sheep walking on the ground
+sheep-10 left sheep running on grass with other sheep
+sheep-11 sheep running on grass with other sheep
+sheep-12 left sheep running on grass with other sheep
+sheep-13 little sheep running on grass with other sheep
+sheep-14 right sheep running on grass with other sheep
+sheep-15 left sheep running on grass with other sheep
+sheep-16 large sheep running on the grass with other sheep
+sheep-17 left sheep running with other sheep
+sheep-18 left sheep running on the grass with other sheep
+sheep-19 black sheep walking on the road with other sheep
+sheep-2 left sheep running with other sheep
+sheep-20 right sheep running on the grass with other sheep
+sheep-3 left white sheep playing with other sheep on the grass
+sheep-4 sheep running on the road with other sheep
+sheep-5 sheep running on the grass with other sheep
+sheep-6 large sheep running on the grass
+sheep-7 right sheep running on the grass
+sheep-8 right sheep playing with another sheep on the grass
+sheep-9 left sheep running on the grass with other sheep
+skateboard-1 skateboard moving on the road under a man in black
+skateboard-10 skateboard ridden by person on road
+skateboard-11 skateboard moving on the road under a man in grey coat
+skateboard-12 skateboard ridden by person on road
+skateboard-13 skateboard moving on the road under a man in red
+skateboard-14 skateboard moving on the road under a man in black
+skateboard-15 skateboard moving on the road under a man in white t-shirt
+skateboard-16 skateboard moving on the road under a man in red pants
+skateboard-17 skateboard moving on the road under a man in red coat
+skateboard-18 skateboard moving on the road under a man in black t-shirt
+skateboard-19 skateboard moving on the road under a man in black t-shirt
+skateboard-2 skateboard ridden by boy on road
+skateboard-20 skateboard moving on the road under a man in black pants
+skateboard-3 skateboard moving on the road under a man in blue t-shirt
+skateboard-4 skateboard moving on the road under a man in black pants
+skateboard-5 skateboard moving on the road under a man in black coat
+skateboard-6 skateboard moving on the road under a man in white t-shirt
+skateboard-7 skateboard moving on the road under a man in blue t-shirt
+skateboard-8 skateboard moving on the road under a man in blue coat
+skateboard-9 skateboard moving on the road under a man in blue coat
+spider-1 spider moving on the edge of a white bucket
+spider-10 spider moving on the arm of a man
+spider-11 spider hunting on its web
+spider-12 spider moving on the white wall
+spider-13 spider creeping on ground
+spider-14 spider moving its web
+spider-15 black spider moving on a table towards another spider
+spider-16 spider moving on its web
+spider-17 spider moving on its web
+spider-18 spider moving on its web
+spider-19 spider moving on its web
+spider-2 spider moving on its web
+spider-20 spider moving on its web
+spider-3 spider moving on its web
+spider-4 black spider moving on blue cloth
+spider-5 spider moving in a glass tank
+spider-6 spider moving on a yellow pumpkin
+spider-7 black spider moving on one's hand
+spider-8 black spider moving one`s hand
+spider-9 spider moving on its web
+squirrel-1 squirrel moving on the snow
+squirrel-10 squirrel moving on the grass
+squirrel-11 squirrel playing with a cat
+squirrel-12 squirrel moving on the grass
+squirrel-13 squirrel playing with yellow ball on the grass
+squirrel-14 squirrel moving on the ground
+squirrel-15 squirrel moving on the grass
+squirrel-16 squirrel moving on the grass
+squirrel-17 squirrel moving on fallen leaves
+squirrel-18 squirrel moving on the ground
+squirrel-19 squirrel moving on the ground
+squirrel-2 squirrel moving on the grass
+squirrel-20 squirrel moving on the grass
+squirrel-3 squirrel moving on tree trunk
+squirrel-4 squirrel sitting on tree trunk with other squirrels
+squirrel-5 brown squirrel moving down to the grass
+squirrel-6 squirrel moving on hanging cable
+squirrel-7 squirrel spinning
+squirrel-8 squirrel moving among tree branches with another squirrel
+squirrel-9 squirrel playing ball on ground
+surfboard-1 surfboard moving above the surface of the water under a man in yellow
+surfboard-10 surfboard ridden by person on water
+surfboard-11 red surfboard moving under a man in green swimming trunk
+surfboard-12 white surfboard moving under a man in blue
+surfboard-13 white surfboard moving above the surface of the water under a man in black
+surfboard-14 yellow surfboard moving above the surface of the water under a man in black
+surfboard-15 white surfboard moving above the surface of the water under a man in black
+surfboard-16 surfboard moving above the surface of the water under a man in black
+surfboard-17 white surfboard moving above the surface of the water under a man in black
+surfboard-18 white surfboard moving above the surface of the water under a man in white
+surfboard-19 blue surfboard moving under a man in black
+surfboard-2 white surfboard moving under a man in blue
+surfboard-20 white surfboard moving on the surface of water under a man in white swimming trunk
+surfboard-3 white surfboard moving under a man in red
+surfboard-4 pink surfboard moving above the surface of the water under a man in black swimming trunk
+surfboard-5 blue surfboard moving above the surface of the water under a man in blue swimming trunk
+surfboard-6 surfboard moving above the surface of the water under a man in blue swimming trunk
+surfboard-7 surfboard ridden by person on water
+surfboard-8 surfboard moving under a man in black swimming trunk
+surfboard-9 red surfboard moving above the surface of the water under a man in red life jacket
+swing-1 swing moved by a raccoon
+swing-10 blue swing moved by a woman in red t-shirt
+swing-11 swing played by children
+swing-12 black swing swinging under a boy in orange 
+swing-13 blue swing swinging under a girl in blue
+swing-14 swing swinging under a man in black coat
+swing-15 swing swinging under a woman in black
+swing-16 swing swinging above a man in black pants
+swing-17 swing swinging above a man in black pants
+swing-18 black swing moved by two girls
+swing-19 swing swinging above a girl
+swing-2 black swing moved by a panda
+swing-20 black swing moved by a panda
+swing-3 swing swinging with a boy in blue
+swing-4 swing swinging under a boy in black coat
+swing-5 yellow swing swinging under a woman in white pants
+swing-6 black swing swinging under a girl in green
+swing-7 swing swinging under a girl in blue coat
+swing-8 black swing swinging under a girl in blue pants
+swing-9 black swing swinging under a girl in pink
+tank-1 tank moving on the ground
+tank-10 tank moving on the ground
+tank-11 tank moving on the ground
+tank-12 tank moving on the ground
+tank-13 tank moving on the ground
+tank-14 tank driving on ground
+tank-15 tank moving on the road
+tank-16 tank moving on the ground
+tank-17 second tank from left moving on the ground
+tank-18 tank moving on the ground making dust
+tank-19 left tank moving towards another tank
+tank-2 tank moving on the ground
+tank-20 tank moving on dry grass
+tank-3 tank moving on the ground
+tank-4 tank moving on the ground
+tank-5 tank driving on ground
+tank-6 tank moving on the ground
+tank-7 tank moving into a water pool
+tank-8 right tank moving on the road
+tank-9 right tank moving on the ground
+tiger-1 tiger walking to another tiger
+tiger-10 tiger walking on the road
+tiger-11 left tiger swimming in the water with another tiger
+tiger-12 tiger walking on the grass
+tiger-13 tiger walking along the trail
+tiger-14 tiger walking into a river
+tiger-15 tiger walking on the road with her cubs
+tiger-16 tiger walking on the dry grass
+tiger-17 tiger walking on the ground
+tiger-18 tiger walking into a water pool
+tiger-19 tiger walking on ground followed by two little tigers
+tiger-2 tiger playing on the grass with another tiger
+tiger-20 left tiger playing with another tiger under the trees
+tiger-3 top tiger playing with another tiger on the grass
+tiger-4 left tiger playing with another tiger on the grass
+tiger-5 tiger playing with a blue box on the grass
+tiger-6 left tiger playing with another tiger on dry grass
+tiger-7 tiger walking in the bush
+tiger-8 tiger walking on the dry grass under the trees
+tiger-9 tiger walking along the trail
+train-1 blue train moving on its track
+train-10 train moving along the track
+train-11 black train moving on its track
+train-12 black train moving on its track
+train-13 red train moving on its track
+train-14 yellow train moving on its track
+train-15 blue train moving on its track
+train-16 white train moving on its track
+train-17 red train moving on its track
+train-18 white train moving on its track
+train-19 yellow train moving on its track
+train-2 yellow train moving on its track
+train-20 blue train moving on its track
+train-3 blue train moving on its track
+train-4 black train moving on its track
+train-5 train moving on its track
+train-6 train moving on its track
+train-7 train moving on its track
+train-8 orange train moving on its track
+train-9 black train moving on its track
+truck-1 truck moving on the road
+truck-10 white truck moving on the road
+truck-11 white truck moving on the road
+truck-12 red truck moving on the road
+truck-13 black truck moving on the road
+truck-14 white truck moving on the road
+truck-15 white truck moving on the road
+truck-16 white truck moving fast among other vehicles on the road
+truck-17 grey truck moving on the road followed by black cars
+truck-18 white truck moving fast among other vehicles on the road in the night
+truck-19 grey truck moving on the road followed by black cars
+truck-2 white truck moving on the road
+truck-20 left truck moving on the road among other vehicles
+truck-3 red truck moving on the road
+truck-4 white truck moving on the road
+truck-5 truck moving on the road
+truck-6 white truck moving on the road
+truck-7 white truck moving along the road
+truck-8 truck moving on the road in the rain
+truck-9 black truck moving along the road
+turtle-1 turtle swimming in the ocean
+turtle-10 turtle swimming in the water above sand
+turtle-11 black turtle moving on the beach
+turtle-12 turtle swimming in the water above sand
+turtle-13 turtle swimming in the water
+turtle-14 turtle swimming in the water
+turtle-15 turtle moving on the beach
+turtle-16 turtle swimming in water
+turtle-17 right turtle swimming with other turtles in water
+turtle-18 turtle swimming below the surface of the water
+turtle-19 right turtle swimming below the surface of the water
+turtle-2 turtle moving on the sand towards ocean
+turtle-20 turtle swimming in the water above the sand
+turtle-3 turtle swimming in the water
+turtle-4 large turtle swimming in the water with another turtle
+turtle-5 turtle swimming in the water below the surface
+turtle-6 turtle moving on the beach
+turtle-7 turtle moving on the beach
+turtle-8 large turtle swimming with other turtles in the water
+turtle-9 turtle swimming in water 
+umbrella-1 black umbrella holding by a man in black suit
+umbrella-10 left white umbrella waved by a woman in white dress
+umbrella-11 center red umbrella waved among other umbrellas by a woman in red 
+umbrella-12 left red umbrella waved among other umbrellas by a girl
+umbrella-13 blue umbrella waved by a girl in blue dress
+umbrella-14 pink right umbrella waved among other umbrellas by a woman in blue
+umbrella-15 red umbrella waved by a girl in blue dress
+umbrella-16 red umbrella holding by a boy in grey 
+umbrella-17 red umbrella waved by a man in black 
+umbrella-18 black umbrella waved by a man in black
+umbrella-19 center blue left umbrella waved among other umbrellas by a girl in blue 
+umbrella-2 red umbrella moving with a woman in black pants
+umbrella-20 umbrella held by little gird
+umbrella-3 umbrella moving with a baby 
+umbrella-4 black umbrella held by child
+umbrella-5 white umbrella holding by a man in blue coat
+umbrella-6 umbrella moving with a boy in yellow
+umbrella-7 umbrella moving in the corridor
+umbrella-8 third umbrella from left held by person
+umbrella-9 left red umbrella waved among other umbrellas by a woman in black 
+volleyball-1 yellow volleyball bouncing between yellow wall and woman in black
+volleyball-10 volleyball bouncing between volleyball players
+volleyball-11 volleyball bouncing between beach volleyball players
+volleyball-12 volleyball bouncing between volleyball players
+volleyball-13 yellow volleyball bouncing between volleyball players
+volleyball-14 volleyball holding by a woman in red t-shirt
+volleyball-15 volleyball bouncing between volleyball players
+volleyball-16 volleyball bouncing between volleyball players
+volleyball-17 volleyball bouncing between beach volleyball players
+volleyball-18 volleyball bouncing between wall and a woman in blue
+volleyball-19 volleyball bouncing between volleyball players
+volleyball-2 volleyball bouncing between volleyball players
+volleyball-20 volleyball bouncing between volleyball players
+volleyball-3 volleyball bouncing between volleyball players
+volleyball-4 volleyball bouncing between beach volleyball players
+volleyball-5 volleyball bouncing between volleyball players
+volleyball-6 white volleyball holding by a woman in white t-shirt
+volleyball-7 volleyball bouncing between wall and a woman in black
+volleyball-8 volleyball holding by a girl in pink
+volleyball-9 volleyball bouncing between a woman in black and a man in red sweater
+yoyo-1 yoyo flying in front of a boy in black t-shirt
+yoyo-10 yoyo played by child on square
+yoyo-11 purple yoyo flying in front of a man in black 
+yoyo-12 yoyo flying in front of a man in black shirt
+yoyo-13 purple yoyo flying in front of a boy in blue
+yoyo-14 red yoyo flying in front of a boy in white t-shirt
+yoyo-15 blue yoyo flying in front of a boy in white t-shirt
+yoyo-16 blue yoyo flying in front of a boy in black
+yoyo-17 orange yoyo flying in front of a boy in white t-shirt
+yoyo-18 yoyo played by child
+yoyo-19 green yoyo flying in front of a man in grey
+yoyo-2 purple yoyo flying in front of a man in grey
+yoyo-20 green yoyo flying in front of a man in red t-shirt
+yoyo-3 white yoyo flying in front of a boy in blue t-shirt 
+yoyo-4 yellow yoyo flying in front of a boy in blue t-shirt
+yoyo-5 yoyo flying in front of a man in black
+yoyo-6 yoyo flying in front of a man in red shirt
+yoyo-7 yoyo played by child in room
+yoyo-8 yoyo played by man on stage
+yoyo-9 green yoyo flying in front of a man in black t-shirt
+zebra-1 zebra playing with other zebras on grass
+zebra-10 second zebra from right running on the grass with other zebras
+zebra-11 right zebra running on the grass with another zebra
+zebra-12 zebra running on the grass with other zebras
+zebra-13 right zebra moving on the ground
+zebra-14 zebra walking in the river
+zebra-15 top zebra running with another zebra
+zebra-16 little zebra running on dry grass with other zebras
+zebra-17 zebra running on the grass with a black horse
+zebra-18 zebra running on the grass with a brown horse in mist
+zebra-19 left zebra playing with another zebra in yard of zoo
+zebra-2 large zebra walking with little zebra in yard of zoo
+zebra-20 left zebra walking on the ground around another zebra
+zebra-3 left zebra walking with other zebras
+zebra-4 left zebra running with other zebras
+zebra-5 left zebra walking with another zebra
+zebra-6 zebra moving on the ground
+zebra-7 left little zebra walking with another zebra
+zebra-8 left zebra walking with other zebra
+zebra-9 large zebra running on the ground with other zebras
