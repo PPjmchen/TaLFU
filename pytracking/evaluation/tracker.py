@@ -270,6 +270,9 @@ class Tracker:
         cv.imshow(display_name, frame)
 
         def _build_init_info(box):
+
+
+            
             return {'init_bbox': OrderedDict({1: box}), 'init_object_ids': [1, ], 'object_ids': [1, ],
                     'sequence_object_ids': [1, ]}
 

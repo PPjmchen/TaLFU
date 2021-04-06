@@ -11,9 +11,9 @@ from pytracking.libs.optimization import GaussNewtonCG, ConjugateGradient, Gradi
 from .optim import ConvProblem, FactorizedConvProblem
 from pytracking.features import augmentation
 import ltr.data.bounding_box_utils as bbutils
-from bert_serving.client import BertClient
-from pytracking.tools.generate_coord import generate_coord
 
+from pytracking.tools.generate_coord import generate_coord
+from nlp.resc.tools.bert_emb import BertEncoder
 
 class ATOM(BaseTracker):
 
@@ -109,8 +109,10 @@ class ATOM(BaseTracker):
 
         # Init query
         self.query = info['init_query']
-        bc = BertClient()
-        self.query_emb = torch.from_numpy(bc.encode([self.query])).cuda()
+
+        self.bertencoder = BertEncoder().eval().cuda()
+        self.query_emb = self.bertencoder(self.query)
+        import ipdb; ipdb.set_trace()
 
         # Initialize some learning things
         # Set the phi_1 and phi_2 in the atom paper
